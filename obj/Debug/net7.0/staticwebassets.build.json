@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "F9DKLZbU8ir614IlXIGCHggnN19y2EB0LqPptzvrlWM=",
+  "Source": "DotNetJokesAPI",
+  "BasePath": "_content/DotNetJokesAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
